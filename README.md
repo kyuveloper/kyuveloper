@@ -34,7 +34,7 @@
 ![스프링](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![리액트](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 
-## My Git <a href="">[💡](https://github.com/kyuveloper)<a>
+## My Git [💡](https://github.com/kyuveloper)
 
 <details>
 <summary>etc..</summary>
